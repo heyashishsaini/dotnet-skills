@@ -1,0 +1,41 @@
+{
+  "name": "dotnet-skills",
+  "owner": {
+    "name": "Ashish Kumar",
+    "url": "https://github.com/heyashishsaini"
+  },
+  "plugins": [
+    {
+      "name": "dotnet-architect",
+      "description": "Senior .NET solution architect persona for designing and structuring .NET projects and systems.",
+      "version": "1.0.0",
+      "source": "./dotnet-architect",
+      "category": "development",
+      "tags": ["dotnet", "architecture", "csharp"]
+    },
+    {
+      "name": "dotnet-main",
+      "description": "Core .NET fundamentals, runtime concepts, and C# language features.",
+      "version": "1.0.0",
+      "source": "./dotnet-main",
+      "category": "development",
+      "tags": ["dotnet", "csharp"]
+    },
+    {
+      "name": "dotnet-wpf",
+      "description": "WPF and MVVM mentor for XAML, data binding, and desktop UI/UX in .NET.",
+      "version": "1.0.0",
+      "source": "./dotnet-wpf",
+      "category": "development",
+      "tags": ["wpf", "xaml", "mvvm", "dotnet"]
+    },
+    {
+      "name": "dotnet-interview-notes",
+      "description": "Concise .NET interview prep and revision notes generator.",
+      "version": "1.0.0",
+      "source": "./dotnet-interview-notes",
+      "category": "productivity",
+      "tags": ["dotnet", "interview-prep"]
+    }
+  ]
+}
