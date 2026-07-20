@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-skills",
+  "version": "1.0.0",
+  "description": "A structured knowledge base and reference guide for mastering the .NET ecosystem, covering core fundamentals, advanced architecture, WPF, and interview preparation.",
+  "author": {
+    "name": "Ashish Kumar",
+    "url": "https://github.com/heyashishsaini"
+  },
+  "repository": "https://github.com/heyashishsaini/dotnet-skills",
+  "license": "MIT",
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "architecture",
+    "wpf",
+    "interview-prep"
+  ]
+}
