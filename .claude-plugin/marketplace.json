@@ -5,59 +5,19 @@
     "url": "https://github.com/heyashishsaini"
   },
   "metadata": {
-    "description": "Collection of .NET skills and architecture guides."
+    "description": "Marketplace hosting the dotnet-skills reference and architecture plugin."
   },
   "plugins": [
     {
-      "name": "dotnet-architect",
-      "description": "Senior .NET solution architect persona for designing and structuring .NET projects.",
+      "name": "dotnet-skills",
+      "description": "A structured knowledge base and reference guide for mastering the .NET ecosystem, covering core fundamentals, advanced architecture, WPF, and interview preparation.",
       "version": "1.0.0",
       "author": {
         "name": "Ashish Kumar",
         "url": "https://github.com/heyashishsaini"
       },
-      "source": "./dotnet-architect",
-      "strict": false,
+      "source": "./",
       "category": "development",
-      "homepage": "https://github.com/heyashishsaini/dotnet-skills"
-    },
-    {
-      "name": "dotnet-main",
-      "description": "Core .NET fundamentals, runtime concepts, and C# language features.",
-      "version": "1.0.0",
-      "author": {
-        "name": "Ashish Kumar",
-        "url": "https://github.com/heyashishsaini"
-      },
-      "source": "./dotnet-main",
-      "strict": false,
-      "category": "development",
-      "homepage": "https://github.com/heyashishsaini/dotnet-skills"
-    },
-    {
-      "name": "dotnet-wpf",
-      "description": "WPF and MVVM mentor for XAML, data binding, and desktop UI/UX in .NET.",
-      "version": "1.0.0",
-      "author": {
-        "name": "Ashish Kumar",
-        "url": "https://github.com/heyashishsaini"
-      },
-      "source": "./dotnet-wpf",
-      "strict": false,
-      "category": "development",
-      "homepage": "https://github.com/heyashishsaini/dotnet-skills"
-    },
-    {
-      "name": "dotnet-interview-notes",
-      "description": "Concise .NET interview prep and revision notes generator.",
-      "version": "1.0.0",
-      "author": {
-        "name": "Ashish Kumar",
-        "url": "https://github.com/heyashishsaini"
-      },
-      "source": "./dotnet-interview-notes",
-      "strict": false,
-      "category": "productivity",
       "homepage": "https://github.com/heyashishsaini/dotnet-skills"
     }
   ]
